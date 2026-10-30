@@ -6,4 +6,5 @@ export interface IProduct {
   price: number
   stock: number
   category: TypeCategory
+  image: string
 }
